@@ -1,12 +1,20 @@
-## Hi there 👋
+# SATstation
 
-<!--
+SATstation is a Bitcoin-native, local-first playground for wallets, community, P2P exchange, and no-KYC DCA.
 
-**Here are some ideas to get you started:**
+## What we are building
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- no-KYC Bitcoin wallet UX.
+- Lightning and Cashu flows.
+- Community chat and meetup tools.
+- P2P marketplace and proximity exchange.
+- DCA and savings automation.
+
+## Mirrors
+
+- Origin: Codeberg.
+- Mirror: GitHub.
+
+## Status
+
+Early stage, actively shaping scope through surveys and community feedback.
